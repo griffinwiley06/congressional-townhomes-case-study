@@ -4,7 +4,7 @@ A single-page marketing and lead-capture website for Congressional Townhomes, a 
 
 > **The source code is kept private** because the site belongs to the client. This repository is a case study: what the site needed to do, how it was built, and what it looks like.
 
-**Live site: https://congressionaltownhomes.com/ 
+**Live site:** [congressionaltownhomes.com](https://congressionaltownhomes.com/)
 
 ![Desktop view of the site's hero section](docs/desktop.jpg)
 
@@ -47,7 +47,7 @@ Built with AI-assisted development. I gathered the requirements and content from
 
 ## What I'd do next
 
-- Connect a custom domain and submit the site to Google Search Console
+- Submit the site to Google Search Console
 - Add analytics to measure how many visitors join the waitlist
 - Move the photos out of the HTML file and compress them, so the page loads faster on mobile data
 
